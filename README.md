@@ -11,6 +11,7 @@
 <h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
 
 Project 1 - [Help Desk Ticketing Lab](https://github.com/MDemba21/Help-Desk-Ticketing-Lab/tree/main)
+Project 2 - [System Monitoring with Linux]
 
 <h2>🔭 Currently Working On:</h2>
 
