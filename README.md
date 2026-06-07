@@ -1,49 +1,27 @@
-<h1>Hi, I'm Mamadou
+<h1>Hi, I'm Mamadou Demba! <br/>Cybersecurity Professional — Cloud, Linux & Security Operations</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🎖️ U.S. Army Veteran | Secret Security Clearance</h2>
 
-Mircosoft Azure SIEM and Honeypot Lab
+<h2>🏅 Certifications:</h2>
 
-<h2>📜 Certifications</h2>
+- CompTIA Security+ (Active)
+- Microsoft Azure Fundamentals (AZ-900) (Active)
+- Active Secret Security Clearance
 
-[Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/UBP2R134EPYX)
+<h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
 
+🚧 Projects coming soon — currently specializing in Cloud (Azure) and Linux environments. Stay tuned!
 
+<h2>🔭 Currently Working On:</h2>
 
+- Building hands-on labs in **Microsoft Azure** and **Linux**
+- Deepening skills in **SIEM**, **KQL**, and **cloud security monitoring**
+- Expanding my GitHub with real-world cybersecurity projects
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
+[<img align="left" alt="Mamadou Demba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
 
-
-
-[linkedin]: https://linkedin.com/in/mamadoudemba
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-**MDemba21/MDemba21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/mamadoudemba
