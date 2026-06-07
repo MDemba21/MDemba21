@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
 
-🚧 Projects coming soon — currently specializing in Cloud (Azure) and Linux environments. Stay tuned!
+Project 1 - [Help Desk Ticketing Lab](https://github.com/MDemba21/Help-Desk-Ticketing-Lab/tree/main)
 
 <h2>🔭 Currently Working On:</h2>
 
