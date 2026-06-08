@@ -14,7 +14,7 @@ Project 1 - [Help Desk Ticketing Lab](https://github.com/MDemba21/Help-Desk-Tick
 
 Project 2 - [System Monitoring with Linux](https://github.com/MDemba21/System-Monitoring-with-Linux)
 
-Project 3 - [Nmap Scanning and Telnet Access]
+Project 3 - [Nmap Scanning and Telnet Access](https://github.com/MDemba21/Nmap-Scanning-and-Telnet-Access)
 
 
 
